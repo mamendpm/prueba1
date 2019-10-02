@@ -1,2 +1,2 @@
 # prueba1
-Repositorio de LMI de la Mamen
+Repositorio de LMI de Mamen
